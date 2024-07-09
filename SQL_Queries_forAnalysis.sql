@@ -1,5 +1,5 @@
 -- Feature Engineering
--- adding --columns
+-- adding columns
 -- time_of_day
 
 SELECT Ttime, 
